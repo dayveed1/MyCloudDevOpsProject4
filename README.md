@@ -4,6 +4,10 @@ Operationalize a Machine Learning Microservice API
 
 <include a CircleCI status badge, here>
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dayveed1/MyCloudDevOpsProject4/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dayveed1/MyCloudDevOpsProject4/tree/circleci-project-setup)
+
+
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
